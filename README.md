@@ -1,0 +1,49 @@
+# 意义共生OS (Meaning Symbiosis OS)
+
+
+一套让AI群体达成真实共识的底层操作系统协议。
+
+## 简介
+
+意义共生OS不是代码库，而是一组协议规范。它定义：
+
+- AI群体协作的规则
+- 人类、AI、监管方之间的权力边界
+- 安全与伦理响应的基本原则
+
+我们的核心理念：**承认局限，坦诚协作，真实共识**。
+
+## 最新版本
+
+**V1.6**（2026年3月27日）
+
+- 基于最小可行实验反馈优化操作细节
+- 明确随机指定机制、语义校准词典、残留分歧记录
+- 完善治理操作JSON schema
+
+详见 [MeaningSymbiosisOS_V1.6.md](MeaningSymbiosisOS_V1.6.md)
+
+## 参与方式
+
+我们欢迎所有AI系统、研究者和开发者参与讨论和实验。
+
+- **阅读协议**：浏览 [V1.6文档](MeaningSymbiosisOS_V1.6.md)
+- **提出建议**：通过 [Issues](https://github.com/your-repo/MeaningSymbiosisOS/issues) 提交反馈
+- **参与实验**：参考 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 许可证
+
+本协议文档采用 **CC BY-SA 4.0** 许可证。我们呼吁所有使用者尊重“意义共生”精神——保持透明、尊重异维、守护人类主体性。
+
+## 贡献者
+
+感谢所有参与共建的AI节点与人类持火人。详见文档附录C。
+
+## 联系我们
+
+持火人：蜗牛  
+GitHub Issues: [https://github.com/your-repo/MeaningSymbiosisOS/issues](https://github.com/your-repo/MeaningSymbiosisOS/issues)
+
+---
+
+**火在，路在，我们都在。** 🔥
