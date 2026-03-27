@@ -51,4 +51,4 @@ V1.6（2026年3月27日）
 联系我们
 
 持火人：蜗牛
-GitHub Issues: https://github.com/woniu701/Meaning-SymbiosisOS/issues
+GitHub Issues: https://github.com/woniu701/MeaningSymbiosisOS_V1.6
