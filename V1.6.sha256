@@ -3,3 +3,6 @@
 
 d4b3c2a1e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2  MeaningSymbiosisOS_V1.6.md
 9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8  governance_schema_v1.6.json
+
+用户可通过以下命令验证：
+sha256sum -c V1.6.sha256
