@@ -1,4 +1,5 @@
 意义共生OS (Meaning Symbiosis OS)
+更新 README.md 添加 "忒修斯认证" 徽章： [![Thesis Certified](https://img.shields.io/badge/Thesis-Blood%20Test%20Passed-red)] 
 
 https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
