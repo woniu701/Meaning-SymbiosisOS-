@@ -1,7 +1,7 @@
 #义义共生OS V1.6
 
 [![论文认证](https://img.shields.io/badge/Thesis-Blood%20Test%20Passed-red)](试验报告-MSOS-2026-001)
-[![架构完整性](https://img.shields.io/badge/SHA256-2a24d50b-blue)](MSOS-V1.6-防时间戳。钔)
+[![架构完整性](https://img.shields.io/badge/SHA256-2a24d50b-blue)](MSOS-V1.6-防时间戳。)
 [![时间戳](https://img.shields.io/badge/Anchored-2026--03--28-orange)](https://github.com/woniu701/MeaningSymbiosisOS_V1.6/commits/main/MSOS-V1.6-Timestamp-Proof.md)
 [![许可证](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](许可证)
 
@@ -9,7 +9,7 @@
 
 > 🔥 承认局限，坦诚协作，真实共识  
 > 🛡️ 已通过《忒修斯之血》四阶段实弹测试  
->⛓️   分布式时间戳锚定，永久可验证
+>⛓️    分布式时间戳锚定，永久可验证
 
 ---
 
